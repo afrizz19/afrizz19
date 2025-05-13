@@ -38,6 +38,6 @@ src="https://img.shields.io/github/followers/ucupp19?logo=github&style=for-the-b
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://saweria.co/afrizzz19"><img src="[https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75](https://saweria.co/admin)" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://saweria.co/afrizzz19"> <p> SAWERIA </p></a></li>
 
 </ul>
