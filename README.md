@@ -12,9 +12,6 @@ i just start learning in this but i think i am confident as a web developer
 * 🧠  I'm learning a mobile framework
 * 🤝  I'm open to collaborating on some new thing
 * ⚡  i am a little bit confuse about something
-
-<a href="https://www.github.com/ucupp19" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ucupp19?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
