@@ -1,7 +1,7 @@
 Hi 👋 My name is Afrizz
 =======================
 
-Front End Web Developer
+Full Stack Web Developer
 -----------------------
 
 i just start learning in this but i think i am confident as a web developer
