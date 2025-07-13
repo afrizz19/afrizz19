@@ -24,7 +24,7 @@ i just start learning in this but i think i am confident as a web developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ucupp19"><img src="https://github-readme-stats.vercel.app/api?username=ucupp19&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="ucupp19's GitHub stats" /></a>
+<a href="http://www.github.com/ucupp19"><img src="https://github-readme-stats.vercel.app/api?username=afrizz19&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="afrizz19's GitHub stats" /></a>
 
 ### Support Me
 
