@@ -8,7 +8,6 @@ i just start learning in this but i think i am confident as a web developer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [yusufafaris@gmail.com](mailto:yusufafaris@gmail.com)
-* 🚀  I'm currently working on [My Portofolio](http://github.com/ucupp19/portofolio)
 * 🧠  I'm learning a mobile framework
 * 🤝  I'm open to collaborating on some new thing
 * ⚡  i am a little bit confuse about something
